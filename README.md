@@ -2,7 +2,7 @@
 A simple To-Do application built using Python and Flask. This app allows users to manage their tasks efficiently through a user-friendly web interface.
 
 # Features
--**Create Tasks**: Add new tasks to your to-do list.    
+- **Create Tasks**: Add new tasks to your to-do list.    
 - **Delete Tasks**: Remove tasks from your to-do list.
 
 # Technologies Used  
